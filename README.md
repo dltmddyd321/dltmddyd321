@@ -12,6 +12,7 @@ My hobby is playing soccer, health, and I like animation.
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/win_dr_?utm_medium=copy_link)](https://instagram.com/win_dr_?utm_medium=copy_link)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=Linktree&logoColor=white&link=https://linktr.ee/dltmddyd321)](https://linktr.ee/dltmddyd321)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psycho1q2w@gmail.com)](mailto:psycho1q2w@gmail.com)
 
 ### 🔨 Skills
 
