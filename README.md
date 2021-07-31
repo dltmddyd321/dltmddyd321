@@ -1,6 +1,6 @@
 
 ### 👋 Hello! Nice to meet you! 
-I'm **Mobile App Developer** using Andorid and iOS.
+I'm **Mobile App Developer** using Android and iOS.
 
 Usually I develop using Android studio and Xcode, but I am also developing using a Flutter.
 
