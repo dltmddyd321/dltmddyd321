@@ -1,4 +1,4 @@
-<center>
+
 ### 👋 Hello! Nice to meet you! 
 I'm Mobile **App Developer** using Andorid and iOS.
 
@@ -8,6 +8,9 @@ I always enjoy thinking and thinking about new ideas and making them.
 
 My hobby is playing soccer, health, and I like animation.
 
+#### It's me!
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=Linktree&logoColor=white"/>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 
 ### 🔨 Skills
 
@@ -17,7 +20,6 @@ My hobby is playing soccer, health, and I like animation.
 #### Tools
 <img src="https://img.shields.io/badge/Firebase-FECC00?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Git-FC4C02?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-273347?style=flat-square&logo=notion&logoColor=white"/>
 
-</center>
 <!--
 **dltmddyd321/dltmddyd321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
