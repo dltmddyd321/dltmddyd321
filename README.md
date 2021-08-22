@@ -2,7 +2,7 @@
 ### 👋 Hello! Nice to meet you! 
 I'm **Mobile App Developer** using Android and iOS.
 
-Usually I develop using Android studio and Xcode, but I am also studying Flutter development.
+Usually I develop using Android studio and Xcode, also studying Flutter development.
 
 I always enjoy thinking and thinking about new ideas and making them.
 
