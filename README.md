@@ -6,7 +6,7 @@ Usually I develop using Android studio and Xcode, also studying Flutter developm
 
 I always enjoy thinking and thinking about new ideas and making them.
 
-My hobby is playing soccer, health, and I like animation.
+My hobby is playing soccer, work out, and I like animation.
 
 #### It's me!
 
