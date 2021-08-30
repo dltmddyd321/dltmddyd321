@@ -21,7 +21,7 @@ My hobby is playing soccer, work out, and I like animation.
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-191A1B?style=flat-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-F01428?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-00B388?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-FF6600?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Python-569A31?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
 
 #### Tools
-<img src="https://img.shields.io/badge/Firebase-FECC00?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Git-FC4C02?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-273347?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FECC00?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Git-FC4C02?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-273347?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 
 <!--
 **dltmddyd321/dltmddyd321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
