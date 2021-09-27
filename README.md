@@ -23,6 +23,8 @@ My hobby is playing soccer, work out, and I like animation.
 #### Tools
 <img src="https://img.shields.io/badge/Firebase-FECC00?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Git-FC4C02?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-273347?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 
+![dltmddyd321's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltmddyd321&show_icons=true&theme=radical)
+
 <!--
 **dltmddyd321/dltmddyd321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
