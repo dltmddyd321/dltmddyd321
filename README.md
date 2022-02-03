@@ -2,7 +2,7 @@
 ### 👋 Hello! Nice to meet you! 
 I'm a **Mobile App Developer** using Kotlin and JAVA.
 
-Usually I develop using Android studio, also studying Xcode development with Swift.
+Usually I develop using Android studio, also studying  development with Swift.
 
 I always enjoy thinking and thinking about new ideas and making them.
 
