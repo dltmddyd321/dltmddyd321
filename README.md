@@ -6,8 +6,6 @@ Usually I develop using Android studio, also studying  development with Swift.
 
 I always enjoy thinking and thinking about new ideas and making them.
 
-My hobby is playing soccer, work out, and I like animation.
-
 #### It's me!
 
 [![Linktree Badge](https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=Linktree&logoColor=white&link=https://linktr.ee/dltmddyd321)](https://linktr.ee/dltmddyd321)
