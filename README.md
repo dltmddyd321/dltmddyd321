@@ -1,6 +1,6 @@
 
 ### 👋 Hello! Nice to meet you! 
-I'm a **Mobile App Developer** using Kotlin and JAVA.
+I'm a **Android App Developer** using Kotlin and JAVA.
 
 Usually I develop using Android studio, also studying  development with Swift.
 
