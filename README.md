@@ -21,4 +21,4 @@ I always enjoy thinking and thinking about new ideas and making them.
 
 ![dltmddyd321's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltmddyd321&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltmddyd321&layout=compact&theme=radical&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Slusy Sapzil Board](https://slusy.io/api/sapzil?userId={슬러시 userId})](https://slusy.io/profile/8009427?sapzil_guide=true)
+[![Slusy Sapzil Board](https://slusy.io/api/sapzil?userId=8009427)](https://slusy.io/profile/8009427?sapzil_guide=true)
