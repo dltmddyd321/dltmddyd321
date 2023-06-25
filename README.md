@@ -19,6 +19,6 @@ I always enjoy thinking and thinking about new ideas and making them.
 #### Tools
 <img src="https://img.shields.io/badge/Firebase-FECC00?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Git-FC4C02?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-273347?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-4A154B?style=flat-square&logo=jira&logoColor=blue"/>
 
-![dltmddyd321's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltmddyd321&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltmddyd321&layout=compact&theme=radical&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltmddyd321&layout=compact&theme=radical&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Slusy Sapzil Board](https://slusy.io/api/sapzil?userId=8009427)](https://slusy.io/profile/8009427?sapzil_guide=true)
