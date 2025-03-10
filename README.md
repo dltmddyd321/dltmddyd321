@@ -9,7 +9,6 @@ I always enjoy thinking and thinking about new ideas and making them.
 #### It's me!
 
 [![Linktree Badge](https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=Linktree&logoColor=white&link=https://linktr.ee/dltmddyd321)](https://linktr.ee/dltmddyd321)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCL7UDNVO3mo2ouJC5OCq9gg)](https://www.youtube.com/channel/UCL7UDNVO3mo2ouJC5OCq9gg)
 
 ### 🔨 Skills
 
