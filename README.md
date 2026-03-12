@@ -25,7 +25,7 @@ I always enjoy thinking and thinking about new ideas and making them.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dltmddyd321&layout=compact&theme=react&border_radius=10" height="150" alt="Top Languages" />
 </div>
 
-### 🌿 Tistory Contributions
+### 🌿 Blog Contributions
 
 <div align="center">
   <img src="tistory-grass.svg" alt="Tistory Grass" />
