@@ -1,10 +1,9 @@
 
-### 👋 Hello! Nice to meet you! 
-I'm a **Android Application Developer** using Kotlin and JAVA.
+👋 Hi, I'm Seungyong Lee — Android Engineer based in South Korea.
 
-Usually I develop using **Android studio**, also studying development with Swift.
-
-I always enjoy thinking and thinking about new ideas and making them.
+I've been building and shipping Android apps professionally since 2021,
+currently at TimeBlocks, a calendar & productivity app with hundreds of
+thousands of active users.
 
 #### It's me!
 
