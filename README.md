@@ -17,16 +17,3 @@ I always enjoy thinking and thinking about new ideas and making them.
 
 #### Tools
 <img src="https://img.shields.io/badge/Firebase-FECC00?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Git-FC4C02?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-273347?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-4A154B?style=flat-square&logo=jira&logoColor=blue"/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dltmddyd321&show_icons=true&theme=react&rank_icon=github&border_radius=10" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dltmddyd321&layout=compact&theme=react&border_radius=10" height="150" alt="Top Languages" />
-</div>
-
-### 🌿 Blog Contributions
-
-<div align="center">
-  <img src="tistory-grass.svg" alt="Tistory Grass" />
-</div>
