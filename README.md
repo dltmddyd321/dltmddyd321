@@ -1,8 +1,8 @@
 
 👋 Hi, I'm Seungyong Lee — Android Engineer based in South Korea.
 
-I've been building and shipping Android apps professionally since 2021,
-currently at TimeBlocks, a calendar & productivity app with hundreds of
+I've been building and shipping Android apps professionally since 2021,<br>
+currently at TimeBlocks, a calendar & productivity app with hundreds of<br>
 thousands of active users.
 
 #### It's me!
