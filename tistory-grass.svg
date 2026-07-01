@@ -1230,6 +1230,10 @@
             <rect width="11" height="11" x="0" y="28" rx="2" ry="2" fill="#161b22">
                 <title>0 contributions on 2026-06-30</title>
             </rect>
+            <text x="728" y="-8" class="month">Jul</text>
+            <rect width="11" height="11" x="0" y="42" rx="2" ry="2" fill="#161b22">
+                <title>0 contributions on 2026-07-01</title>
+            </rect>
         </g>
     </g>
     <g transform="translate(660, 106)">
